@@ -1,0 +1,68 @@
+#NAME • 9,0 E - Kabelkiosk
+#SERVICE 1:64:32:0:0:0:0:0:0:0::•••••::| Documentaries |::•••••
+#DESCRIPTION •••••::| Documentaries |::•••••
+#SERVICE 1:0:19:EB:1644:9C:5A0000:0:0:0:
+#SERVICE 1:0:19:E7:1644:9C:5A0000:0:0:0:
+#SERVICE 1:64:33:0:0:0:0:0:0:0::•••••::| Movies |::•••••
+#DESCRIPTION •••••::| Movies |::•••••
+#SERVICE 1:64:34:0:0:0:0:0:0:0::•••••::| Entertainment |::•••••
+#DESCRIPTION •••••::| Entertainment |::•••••
+#SERVICE 1:0:1:1FF:2134:9C:5A0000:0:0:0:
+#SERVICE 1:0:19:1F9:2134:9C:5A0000:0:0:0:
+#SERVICE 1:64:35:0:0:0:0:0:0:0::•••••::| Kids |::•••••
+#DESCRIPTION •••••::| Kids |::•••••
+#SERVICE 1:0:19:1A4:1964:9C:5A0000:0:0:0:
+#SERVICE 1:0:19:E9:1644:9C:5A0000:0:0:0:
+#SERVICE 1:0:1:D5:14B4:9C:5A0000:0:0:0:
+#SERVICE 1:0:1:1FA:2134:9C:5A0000:0:0:0:
+#SERVICE 1:64:36:0:0:0:0:0:0:0::•••••::| Music |::•••••
+#DESCRIPTION •••••::| Music |::•••••
+#SERVICE 1:0:19:CA:14B4:9C:5A0000:0:0:0:
+#SERVICE 1:0:1:F6:14B4:9C:5A0000:0:0:0:
+#SERVICE 1:0:19:1A2:1964:9C:5A0000:0:0:0:
+#SERVICE 1:0:19:1A3:1964:9C:5A0000:0:0:0:
+#SERVICE 1:0:1:D8:14B4:9C:5A0000:0:0:0:
+#SERVICE 1:0:19:1FD:2134:9C:5A0000:0:0:0:
+#SERVICE 1:0:1:F3:14B4:9C:5A0000:0:0:0:
+#SERVICE 1:64:37:0:0:0:0:0:0:0::•••••::| Sport |::•••••
+#DESCRIPTION •••••::| Sport |::•••••
+#SERVICE 1:0:19:EA:1644:9C:5A0000:0:0:0:
+#SERVICE 1:0:1:1F8:2134:9C:5A0000:0:0:0:
+#SERVICE 1:64:38:0:0:0:0:0:0:0::•••••::| News |::•••••
+#DESCRIPTION •••••::| News |::•••••
+#SERVICE 1:0:19:CB:14B4:9C:5A0000:0:0:0:
+#SERVICE 1:0:1:F0:14B4:9C:5A0000:0:0:0:
+#SERVICE 1:0:1:F1:14B4:9C:5A0000:0:0:0:
+#SERVICE 1:64:39:0:0:0:0:0:0:0::•••••::| Genaral |::•••••
+#DESCRIPTION •••••::| Genaral |::•••••
+#SERVICE 1:0:1:1F7:2134:9C:5A0000:0:0:0:
+#SERVICE 1:64:3A:0:0:0:0:0:0:0::•••••::| Germany |::•••••
+#DESCRIPTION •••••::| Germany |::•••••
+#SERVICE 1:0:19:C9:14B4:9C:5A0000:0:0:0:
+#SERVICE 1:0:19:1A1:1964:9C:5A0000:0:0:0:
+#SERVICE 1:0:19:E6:1644:9C:5A0000:0:0:0:
+#SERVICE 1:0:19:196:1964:9C:5A0000:0:0:0:
+#SERVICE 1:0:19:E8:1644:9C:5A0000:0:0:0:
+#SERVICE 1:0:19:1A0:1964:9C:5A0000:0:0:0:
+#SERVICE 1:0:1:F5:14B4:9C:5A0000:0:0:0:
+#SERVICE 1:64:3B:0:0:0:0:0:0:0::•••••::| Russia |::•••••
+#DESCRIPTION •••••::| Russia |::•••••
+#SERVICE 1:0:1:200:2134:9C:5A0000:0:0:0:
+#SERVICE 1:0:1:1FE:2134:9C:5A0000:0:0:0:
+#SERVICE 1:64:3C:0:0:0:0:0:0:0::•••••::| Italy |::•••••
+#DESCRIPTION •••••::| Italy |::•••••
+#SERVICE 1:0:1:1F5:2134:9C:5A0000:0:0:0:
+#SERVICE 1:64:3D:0:0:0:0:0:0:0::•••••::| Turkey |::•••••
+#DESCRIPTION •••••::| Turkey |::•••••
+#SERVICE 1:64:3E:0:0:0:0:0:0:0::•••••::| Teleshopping |::•••••
+#DESCRIPTION •••••::| Teleshopping |::•••••
+#SERVICE 1:0:1:E4:14B4:9C:5A0000:0:0:0:
+#SERVICE 1:0:1:CC:14B4:9C:5A0000:0:0:0:
+#SERVICE 1:64:3F:0:0:0:0:0:0:0::•••••::| XXX |::•••••
+#DESCRIPTION •••••::| XXX |::•••••
+#SERVICE 1:0:1:1F6:2134:9C:5A0000:0:0:0:
+#SERVICE 1:0:1:203:2134:9C:5A0000:0:0:0:
+#SERVICE 1:0:19:1FB:2134:9C:5A0000:0:0:0:
+#SERVICE 1:0:19:201:2134:9C:5A0000:0:0:0:
+#SERVICE 1:64:40:0:0:0:0:0:0:0::* * * ciefpsettings * * *
+#DESCRIPTION * * * ciefpsettings * * *
